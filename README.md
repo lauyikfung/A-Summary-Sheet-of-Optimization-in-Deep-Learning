@@ -2,7 +2,9 @@
 
 Newton's method provides one of the earliest insight in optimization theories. Based on gradient descent, a lot of optimization theories including momentum, adaptive learning, sign of gradient, second-order optimization, variance reduction and scheduler-free optimization have been proposed. However, there is a lack of comprehensive and clear summary of these approaches with unified notation system. This paper attempts to give a systematic, explicit and concise formulation of many of these methods with citation. I hope it can propose the innovation in optimization theory in deep learning, while facilitating relevant researchers to search for references.
 
-According to the limitation of time, I may miss some excellent works on optimization in deep learning. I am very pleased to communicate with others and adding more interesting works to this sheet.
+**According to the limitation of time, I may miss some excellent works on optimization in deep learning. I am very pleased to communicate with others and adding more interesting works to this sheet.**
+
+**And the bibtex file is upload in this repository.**
 
 **Reference and citation is welcome!**
 
