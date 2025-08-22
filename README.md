@@ -8,6 +8,13 @@ You can also call this:
 <img src="optimizer.png">
 
 
+### Other Figures:
+- A brief history of variance reduction optimization methods.(Some optimizers are omitted)
+<img src="VR.png">
+
+- A brief history of large language models. Some optimizers are used in training well-known large language models. The base figure is from https://medium.com/@lmpo/a-brief-history-of-lmms-from-transformers-2017-to-deepseek-r1-2025-dae75dd3f59a
+<img src="brief-histroy.png">
+
 **According to the limitation of time, I may miss some excellent works on optimization in deep learning. I am very pleased to communicate with others and adding more interesting works to this sheet.**
 
 **And the bibtex file is upload in this repository.**
